@@ -26,6 +26,7 @@ setuptools.setup(
           'beautifulsoup4',
           'colorama',
           'lxml',
+          'simpleaudio'
       ],
     packages=setuptools.find_packages(),
     entry_points={
